@@ -1,0 +1,14 @@
+# Proprietary Arvato/Bertelsmann data - DO NOT commit
+Udacity_AZDIAS_Subset.csv
+Udacity_CUSTOMERS_Subset.csv
+AZDIAS_Feature_Summary.csv
+Data_Dictionary.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Terms
+terms_and_conditions/
